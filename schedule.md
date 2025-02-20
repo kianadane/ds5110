@@ -41,18 +41,18 @@ weeks:
   '5':
     Tue:
       date: 2025/02/11
-      content: 7a
+      content: cancelled
     Thu:
       date: 2025/02/13
-      content: 7b
-      note: "[Assignment 2](/ds5110-spring25/assignments/a2) out"
+      content: 7a
   '6':
     Tue:
       date: 2025/02/18
-      content: 8a
+      content: 7b
+      note: "[Assignment 2](/ds5110-spring25/assignments/a2) out"
     Thu:
       date: 2025/02/20
-      content: 8b
+      content: 8a
   '7':
     Tue:
       date: 2025/02/25
@@ -60,7 +60,6 @@ weeks:
     Thu:
       date: 2025/02/27
       content: midterm
-      note: "[Assignment 3](/ds5110-spring25/assignments/a3) out"
   '8':
     Tue:
       date: 2025/03/04
@@ -68,6 +67,7 @@ weeks:
     Thu:
       date: 2025/03/06
       content: 10b
+      note: "[Assignment 3](/ds5110-spring25/assignments/a3) out"
   '9':
     Tue:
       date: 2025/03/11
