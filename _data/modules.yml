@@ -25,8 +25,11 @@
 6b:
   name: Lec6b-Python parallelism II
   page: /lectures/lec6-py-parallel
-cancelled:
+snowDay:
   name: Snow day (class cancelled)
+  type: holiday
+cancelledLockdown:
+  name: Class cancelled (university locked down)
   type: holiday
 7a:
   name: Lec7a-GFS-HDFS
@@ -35,8 +38,8 @@ cancelled:
   name: Lec7b-MapReduce
   page: /lectures/lec7-gfs-mapreduce
 8a:
-  name: Lec8a-Spark RDD
-  page: /lectures/lec8a-spark
+  name: Lec8-Spark RDD
+  page: /lectures/lec8-spark
 8b:
   name: Lec8b-Spark internals
   page: /lectures/lec8b-spark
@@ -46,14 +49,14 @@ midtermReview:
 midterm:
   name: Midterm (<strong>2pm - 3:15pm</strong>)
 10a:
-  name: Lec11a-Ray API
-  page: /lectures/lec11-ray
+  name: Lec9-Ray
+  page: /lectures/lec9-ray
 10b:
-  name: Lec11b-Ray internals
-  page: /lectures/lec11-ray
+  name: Lec9b-Ray internals
+  page: /lectures/lec9-ray
 11a:
-  name: Lec10-AWS AI
-  page: /lectures/lec10-AWS-AI
+  name: Lec10-GenAI at Amazon
+  page: /lectures/lec10-amazon-genai
 11c:
   name: Lec11c-Ray in production
   page: /lectures/lec11-ray
@@ -61,37 +64,37 @@ springRecess:
   name: Spring Recess (no class)
   type: holiday
 12a:
-  name: Lec12a-LLM systems
-  page: /lectures/lec12-llm
+  name: Lec11-LLMs as OS
+  page: /lectures/lec11-llm-os
 12b:
-  name: Lec12b-LLM fairness
-  page: /lectures/lec12-llm
-12c:
-  name: Lec12c-LLM compression
-  page: /lectures/lec12-llm-compression
+  name: Lec12-LLM fairness
+  page: /lectures/lec12-llm-fairness
 13a:
-  name: Lec14-Cloud computing
-  page: /lectures/lec14-cloud-computing
+  name: Lec13-Cloud computing
+  page: /lectures/lec13-cloud-computing
 14a:
-  name: Lec15a-Serverless computing
-  page: /lectures/lec15-serverless-computing
+  name: Lec14-Serverless LLM
+  page: /lectures/lec14-serverless-llm
 15a:
-  name: Lec16-GPU-efficient notebooks
-  page: /lectures/lec16-serverless-notebooks
+  name: Lec15-LLM compression
+  page: /lectures/lec15-llm-compression
 16a:
-  name: Lec17-Serverless LLM
-  page: /lectures/lec17-serverless-llm
+  name: Lec16-Serverless computing
+  page: /lectures/lec16-serverless-computing
 17a:
+  name: Lec17-GPU-efficient notebooks
+  page: /lectures/lec17-serverless-notebooks
+18a:
   name: Lec18a-Cloud storage systems (AWS S3)
   page: /lectures/lec18-cloud-storage
-17b:
+18b:
   name: Lec18b-Cloud storage systems (Amazon Dynamo I)
   page: /lectures/lec18-cloud-storage
-17c:
+18c:
   name: Lec18c-Cloud storage systems (Amazon Dynamo II)
-  page: /lectures/lec18-cloud-storage
-18a:
-  name: Lec19a-Hugging Face architecture
+  page: /lectures/lec19-cloud-storage
+19a:
+  name: Lec19-Hugging Face architecture
   page: /lectures/lec19-hugging-face
 finalExam:
   name: Final exam (<strong>9:00am - 11:00am</strong>)

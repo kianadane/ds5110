@@ -25,6 +25,10 @@ In this lecture, you will learn:
 * **Lec7b:** Hadoop MapReduce: [slides pdf](/ds5110-spring25/assets/docs/lec7b-mapreduce.pdf)
 
 
-### Quiz
+### Recordings
 
-<a href="https://forms.gle/VzkaQtKZNPHq4SyR6">Quiz 2</a>
+* Lec7a: [video](https://edstem.org/us/courses/72907/discussion/6203659)
+* Lec7b: [video](https://edstem.org/us/courses/72907/discussion/6203666)
+* Lec7c (performance result discussion): [video](https://edstem.org/us/courses/72907/discussion/6222331) 
+
+
